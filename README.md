@@ -7,7 +7,7 @@ To use this script follow the instructions below.
 
 To clone the repository locally:
 ```
-git clone https://github.com/nick22d/nxdomain_attack.git
+git clone https://github.com/nick22d/unique_hosts.git
 ```
 To navigate into the repository:
 ```
